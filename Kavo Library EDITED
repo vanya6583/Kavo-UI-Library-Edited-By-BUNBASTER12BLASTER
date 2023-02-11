@@ -1,4 +1,4 @@
---Kavo Edited By BUNBASTER12BLASTER
+--Kavo UI Edited By BUNBASTER12BLASTER
 local Kavo = {}
 
 local tween = game:GetService("TweenService")
