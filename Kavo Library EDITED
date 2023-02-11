@@ -182,10 +182,6 @@ function Kavo.CreateLib(kavName, themeList)
         themeList = themeStyles.Sentinel
     elseif themeList == "Synapse" then
         themeList = themeStyles.Synapse
-    elseif themeList == "Electron" then
-        themeList = themeStyles.Electron
-    elseif themeList == "Youtube" then
-        themeList = themeStyles.Youtube
     elseif themeList == "Serpent" then
         themeList = themeStyles.Serpent
     else
